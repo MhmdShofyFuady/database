@@ -229,7 +229,7 @@ FROM buku ORDER BY harga DESC LIMIT 5;
 
 ## Tugas 2 — Desain Database Lengkap (60%)
 
-File: `NIM_Nama_database.sql`
+File: `60324048_MuhammadShofyFuady_database.sql`
 
 ### Struktur Tabel
 
