@@ -3,9 +3,9 @@
 | | |
 |---|---|
 | **Nama** | Muhammad Shofy Fuady |
-| **NIM** | _(isi NIM lo)_ |
-| **Mata Kuliah** | Basis Data |
-| **Dosen** | _(isi nama dosen)_ |
+| **NIM** | 60324048 |
+| **Mata Kuliah** | Pemrograman web 2 |
+| **Dosen** | MOHAMMAD REZA MAULANA, M.KOM |
 
 ---
 
@@ -229,7 +229,7 @@ FROM buku ORDER BY harga DESC LIMIT 5;
 
 ## Tugas 2 — Desain Database Lengkap (60%)
 
-File: `NIM_Nama_database.sql`
+File: `60324048_MuhammadShofyFuady_database.sql`
 
 ### Struktur Tabel
 
